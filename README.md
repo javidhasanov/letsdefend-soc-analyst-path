@@ -434,5 +434,6 @@ Learned how repeated authentication attempts can be identified and investigated 
 In addition to the course material, I completed hands-on challenges and SOC investigation tickets.
 
 - **[MSHTML-Challenge](https://github.com/javidhasanov/MSHTML-Challenge)**
+- **[Powershell-Malware-Investigation-ticket](https://github.com/javidhasanov/Powershell-Malware-Investigation-)**
 
 ---
